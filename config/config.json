@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe308635f1F5CA1Fbd0034bDC7EFfF51db2be4309",
+  "SCAN_LINK": "https://etherscan.io/token/0xe308635f1f5ca1fbd0034bdc7efff51db2be4309",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Real Fake Doors",
+  "SYMBOL": "DOOR",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
